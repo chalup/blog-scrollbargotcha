@@ -1,0 +1,19 @@
+#Android generated
+bin
+gen
+lint.xml
+
+#Eclipse
+.project
+.classpath
+.settings
+.checkstyle
+
+#Emacs
+*~
+
+#Ant
+build.xml
+ant.properties
+local.properties
+proguard-project.txt
